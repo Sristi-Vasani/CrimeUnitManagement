@@ -43,11 +43,11 @@ st.markdown("""
 
 MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'Sristi@08'  
+MYSQL_PASSWORD = ''  
 MYSQL_DB = 'crime_management'
 
 EMAIL_ADDRESS = 'sambhavgame@gmail.com'  # Replace with your email
-EMAIL_PASSWORD = 'ssvkj2006'   # Replace with your app-specific password
+EMAIL_PASSWORD = ''   # Replace with your app-specific password
 
 # Initialize MySQL connection
 @st.cache_resource
